@@ -1,6 +1,5 @@
 absl-py==0.11.0
 alabaster==0.7.12
-anaconda-client==1.7.2
 anaconda-navigator==1.10.0
 anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1610472525955/work
 appdirs==1.4.4
