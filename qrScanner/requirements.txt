@@ -122,7 +122,6 @@ testpath==0.4.4
 tornado==6.1
 traitlets==5.0.5
 typing-extensions==3.7.4.3
-ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.25.8
 usb-creator==0.3.7
