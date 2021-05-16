@@ -19,7 +19,7 @@ decorator==4.4.2
 defusedxml==0.6.0
 distro==1.4.0
 Django==2.2.12
-duplicity==0.8.12.0
+duplicity==0.8.12.1612
 entrypoints==0.3
 fasteners==0.14.1
 flatbuffers==1.12
