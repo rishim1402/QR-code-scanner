@@ -47,7 +47,7 @@ jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
 Keras-Preprocessing==1.1.2
 keyring==18.0.1
-language-selector==0.1
+language-selector==0.1.24
 launchpadlib==1.10.13
 lazr.restfulclient==0.14.2
 lazr.uri==1.0.3
