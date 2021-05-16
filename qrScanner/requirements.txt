@@ -122,8 +122,6 @@ testpath==0.4.4
 tornado==6.1
 traitlets==5.0.5
 typing-extensions==3.7.4.3
-ubuntu-advantage-tools==20.3
-ubuntu-drivers-common==0.0.0
 ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.25.8
