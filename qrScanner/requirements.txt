@@ -106,7 +106,7 @@ requests==2.22.0
 requests-oauthlib==1.3.0
 requests-unixsocket==0.2.0
 rsa==4.7
-screen-resolution-extra==0.0.0
+screen-resolution-extra
 SecretStorage==2.3.1
 Send2Trash==1.5.0
 simplejson==3.16.0
