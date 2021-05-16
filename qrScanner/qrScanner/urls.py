@@ -23,12 +23,8 @@ from django.conf.urls.static import static
 urlpatterns = [
     # path('',include('Scanner.urls')),
     path('',ScannerView),
-    path('barcode/',Get_image_view, name='barcode'),
     path('admin/', admin.site.urls),
     path('sc/', livefe, name='sc'),
-    path('success', success, name = 'success'),
 ]
 
-if settings.DEBUG:
-    urlpatterns += static(settings.MEDIA_URL,
-                          document_root=settings.MEDIA_ROOT)
+
